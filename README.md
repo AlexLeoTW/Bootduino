@@ -1,4 +1,4 @@
-# Bootduino is for All PC admin #
+# Bootduino is for All PC admin(WIP) #
 
 ### Functionality ###
 * Provide remote boot functionality
