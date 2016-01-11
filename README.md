@@ -10,7 +10,7 @@
 * Arduino Ethernet Shild (R3)
 * button x 2
 
-## More functionality(TO-FO) ##
+## More functionality(TO-DO) ##
 * add Text LCD IP display
 * add Arduino ESP8266 Bare-Bone support
 * implementation using Raspberry Pi (2)
